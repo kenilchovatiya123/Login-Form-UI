@@ -1,6 +1,6 @@
-## TAILWIND CSS PROJECT
+## LOGIN PAGE - UI DESIGN
 
-## Create a dynamic UI design for Login From using Tailwind CSS
+## In this project, i have used only Tailwind CSS, using Tailwind CSS i have create a dynamic UI design for - LOGIN PAGE 
 
 # React + Vite
 
